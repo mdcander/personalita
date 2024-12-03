@@ -20,5 +20,8 @@
     "apps/*",
     "admin/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@tabler/icons-react": "^3.23.0"
+  }
 }
